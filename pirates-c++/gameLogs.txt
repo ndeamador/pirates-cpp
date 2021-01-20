@@ -1,0 +1,8 @@
+Hayreddin Barbarossa;4;50000;true
+Cheng I Sao;5;39000;true
+Francis Drake;1;35000;true
+Henry Morgan;1;32000;true
+Francois L'Ollonais;2;31000;true
+Blackbeard;1;30000;false
+William Kidd;6;28000;false
+Calico Jack;1;24000;false
